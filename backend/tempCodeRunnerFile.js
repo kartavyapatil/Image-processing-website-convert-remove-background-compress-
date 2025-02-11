@@ -1,0 +1,1 @@
+// if your frontend makes requests with cookies
